@@ -1,4 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 #To view wireframes:
 https://www.figma.com/proto/sPHqgD1RdZauTzCtUGtMdn/RBC-NGI?node-id=5%3A10&scaling=scale-down
 
