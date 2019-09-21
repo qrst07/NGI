@@ -93,11 +93,23 @@ class AddPitchForm extends React.Component {
                 <Form.Group controlId="exampleForm.ControlSelect2">
                     <Form.Label>Which Sustainable Goal(s) are you working towards?</Form.Label>
                     <Form.Control as="select" multiple>
-                    <option>1</option>
-                    <option>2</option>
-                    <option>3</option>
-                    <option>4</option>
-                    <option>5</option>
+                    <option>1: NO POVERTY</option>
+                    <option>2: ZERO HUNGER</option>
+                    <option>3: GOOD HEALTH AND WELL BEING</option>
+                    <option>4: QUALITY EDUCATION</option>
+                    <option>5: GENDER EQUALITY</option>
+                    <option>6: CLEAN WATER AND SANITIZATION</option>
+                    <option>7: AFFORDABLE AND CLEAN ENERGY</option>
+                    <option>8: DECENT WORK AND ECONOMIC GROWTH</option>
+                    <option>9: INDUSTRY, INNOVATION AND INFRASTRUCTURE</option>
+                    <option>10: REDUCED INEQUALITIES</option>
+                    <option>11. SUSTAINABLE CITIES AND COMMUNITIES</option>
+                    <option>12. RESPONSIBLE CONSUMPTION AND PRODUCTION</option>
+                    <option>13: CLIMATE ACTION</option>
+                    <option>14. LIFE BELOW WATER</option>
+                    <option>15</option>
+                    <option>16</option>
+                    <option>17</option>
                     </Form.Control>
                 </Form.Group>
 
